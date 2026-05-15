@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Prohibit crawling resources that may contain sensitive information or unnecessary resources
+Disallow: /assets/
+Disallow: /js/
+Disallow: /css/
+
+# Point to Site Map
+Sitemap: https://gif.squoosh.online/sitemap.xml
