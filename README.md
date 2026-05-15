@@ -1,0 +1,2 @@
+# gifconverter
+Squoosh GIF Converter
